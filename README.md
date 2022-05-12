@@ -1,5 +1,5 @@
 # web4themis
-Website để nộp bài và chấm bài tự động bằng Themis. Mỗi kì thi đặt trong một thư mục riêng. Vì vậy hệ thống này cho phép tổ chức thi nhiều kì thi riêng lẻ cùng một lúc trên một máy chủ.
+Website để nộp bài và chấm bài tự động bằng [Themis](https://drive.google.com/file/d/1Zz3uXuTtG51N579zSmhtqWslgI82x8pH/view?usp=sharing). Mỗi kì thi đặt trong một thư mục riêng. Vì vậy hệ thống này cho phép tổ chức thi nhiều kì thi riêng lẻ cùng một lúc trên một máy chủ.
 
 by Tran Huu Nam - huunam0[at]gmail.com - 2022
 
