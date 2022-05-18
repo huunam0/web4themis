@@ -13,18 +13,18 @@ Tải project này về và giải nén vào thư mục gốc (www) của webser
 
 Trong thư mục **contests** là các kì thi, mỗi kì thi là 1 thư mục, tên thư mục là mã kì thi (cho nên đặt tên ngắn gọn, không dấu cách, không dấu tiếng Việt). 
 
-Trong thư mục kì thi chứa các tệp:
+Trong thư mục kì thi chứa các tệp: [Minh hoạ](https://github.com/huunam0/web4themis/blob/main/temp/thumuc.png)
 
 + account.xml : tài khoản của thí sinh, mở để sửa bằng excel [Minh hoạ](https://github.com/huunam0/web4themis/blob/main/temp/account.png)
 + info.php : thông tin về kì thi
 + Các tệp đề bài, chấp nhận đuôi jpg, png, pdf, docx
 + Các tệp input / output mẫu (nếu cần)
-[Minh hoạ](https://github.com/huunam0/web4themis/blob/main/temp/thumuc.png)
+
 Cấp tài khoản cho học sinh.
 
 ## Tiến hành thi
 
-1. Chạy Themis, cấu hình thư mục nộp bài online [minh hoạ](https://github.com/huunam0/web4themis/blob/main/temp/thumuc.png)
+1. Chạy Themis, cấu hình thư mục nộp bài online [minh hoạ](https://github.com/huunam0/web4themis/blob/main/temp/cauhinh.png)
 2. Chạy webserver, bật PHP
 3. Lấy địa chỉ IP của máy chủ để thông báo cho thí sinh.
 4. Thí sinh gõ địa chỉ IP đó vào thanh địa chỉ trình duyệt
